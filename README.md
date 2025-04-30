@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/franklincz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:franklincunya.dev@gmail.com">
+  <a href="mailto:cunyazetafranklin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Franklincz">
@@ -27,13 +27,13 @@ I thrive on turning complex challenges into scalable, automated systems that emp
 - 🏦 Working at **Interbank** in enterprise data engineering and cloud integration
 - 🧠 Always learning about **cloud computing**, **AI/ML**, and **real-time systems**
 - 🎓 Bachelor's in IT & Systems – **ESAN University**
-- 🥇 Awarded **Beca 18** & participated in **DataFest 2023**
+- 🥇 Awarded **Beca 18**
 
 ---
 
 ## 💼 Experience Highlights
 
-### 🔹 Data Engineer — Interbank
+### 🔹 Data Engineer — Interbank | DW
 - Developed pipelines from **AWS (S3, Glue, Lambda)** to **Adobe Experience Platform (AEP)**
 - Automated segmentations using **AEP APIs** (Profile, Segment Jobs, Ingestion)
 - Built event-driven solutions using **Step Functions** and **EventBridge**
@@ -82,17 +82,24 @@ DevOps & Tools:   Git, Docker, Control-M, Bitbucket, Jira
 
 ## 🏆 Awards & Certifications
 
+- 🧠 **Scrum Foundation Professional Certification (SFPC™)** — CertiProf (Nov 2023)
+- 🧱 **Fundamentals of the Databricks Lakehouse Platform** — Databricks (Sep 2024)
+- ☁️ **AWS Certified Data Engineer Associate (Course)** — Udemy Business (Dec 2023)
+- 📊 **Big Data Analytics** — Universidad ESAN (2023)
+- 🧪 **Data Engineer Associate Certificate** — DataCamp (Nov 2023)
+- 🧰 **Data Engineer by Platzi** — 32-course program (May 2024)
+- 🖥️ **Curso de Programación en Bash Shell** — Platzi (2024)
+- 🤖 **Deep Learning con Python** — UNI – Universidad Nacional de Ingeniería (2024)
+
+
 - 🥇 **Beca 18 (PRONABEC)** — Full academic scholarship for top Peruvian students
-- 🏅 **DataFest 2023** — Finalist at ESAN’s analytics competition
-- 🏆 **HAL Game Dev (Japan)** — Bronze Prize for mobile game SPIKE
-- 🈴 **JLPT N1** — Highest level of Japanese language certification
 
 ---
 
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/franklincz)
-- 📧 franklincunya.dev@gmail.com
+- 📧 cunyazetafranklin@gmail.com
 - 🌐 Portfolio site: *Coming soon*
 
 ---
