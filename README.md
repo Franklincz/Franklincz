@@ -1,91 +1,108 @@
 
-<h1 align="center">Hi there 👋, I'm Franklin Cunya Zeta</h1>
+<h1 align="center">👋 Hi, I'm Franklin Cunya Zeta</h1>
+<h3 align="center">🚀 Data Engineer | 💻 Full Stack Developer | 📊 AEP Specialist</h3>
+
 <p align="center">
-  <em>Data Engineer | Full Stack Developer | AEP Specialist</em>
+  <a href="https://www.linkedin.com/in/franklincz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:franklincunya.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Franklincz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-🎯 I'm a **Data Engineer** with 2+ years of experience delivering cloud-based solutions, automation pipelines, and data architecture at scale. I’m passionate about solving complex data problems and creating high-impact tools for businesses.
+🎯 I’m a **Data Engineer** with 2+ years of experience in cloud-based solutions, data pipelines, and full-stack development.  
+I thrive on turning complex challenges into scalable, automated systems that empower business decision-making.
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 Based in Lima, Peru 🇵🇪
-- 🏦 Currently working at **Interbank** as a Data Engineer
-- 🧠 Lifelong learner passionate about **cloud computing**, **data orchestration**, and **ML integration**
-- 🎓 B.E. in Information Technology & Systems – ESAN University
-- 🥇 Beca 18 Scholar & DataFest Finalist
+- 🌍 Based in **Lima, Peru 🇵🇪**
+- 🏦 Working at **Interbank** in enterprise data engineering and cloud integration
+- 🧠 Always learning about **cloud computing**, **AI/ML**, and **real-time systems**
+- 🎓 Bachelor's in IT & Systems – **ESAN University**
+- 🥇 Awarded **Beca 18** & participated in **DataFest 2023**
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Experience Highlights
 
 ### 🔹 Data Engineer — Interbank
-- Built ingestion pipelines from **AWS (S3, Glue, Lambda, Athena)** to **Adobe Experience Platform (AEP)**
-- Automated ETL and segment creation using **AEP APIs** (Profile API, Segment Jobs API)
-- Developed event-driven workflows with **AWS Step Functions** and **EventBridge**
-- Validated data integrity across sources using **CloudWatch**, **Python**, and **Athena**
+- Developed pipelines from **AWS (S3, Glue, Lambda)** to **Adobe Experience Platform (AEP)**
+- Automated segmentations using **AEP APIs** (Profile, Segment Jobs, Ingestion)
+- Built event-driven solutions using **Step Functions** and **EventBridge**
+- Ensured data reliability with **CloudWatch**, **Athena**, and **Python**
 
 ### 🔹 Software Development Engineer — NTT DATA
-- Developed and automated backend tasks with **PL/SQL**, **C#**, and **Shell scripts**
-- Designed messaging systems with **MSMQ** and integrated APIs (REST, SOAP)
-- Managed AWS-connected environments and resolved critical incidents
+- Created backend solutions with **PL/SQL**, **C#**, **MSMQ**, and **Shell scripts**
+- Designed and consumed REST/SOAP APIs for enterprise systems
+- Integrated AWS environments and handled critical incidents
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Toolbox
 
 ```yaml
-Languages:         Python · SQL · C# (.NET) · JavaScript · Shell · Java · Scala
-Cloud Platforms:   AWS · Azure · GCP
-Tools & Frameworks: ASP.NET Core MVC · React · Flask · Node.js · Docker
-Data:              Teradata · Snowflake · SQL Server · BigQuery · DynamoDB · MySQL
-ETL & Pipelines:   Glue · Data Factory · Cloud Functions · Spark · PySpark
-AI & ML:           TensorFlow · PyTorch · Keras · NLP · GeoAI
-Visualization:     Power BI · Databricks · QuickSight · Tableau
-DevOps:            Git · Bitbucket · Control-M · Jira
+Languages:        Python, SQL, C#, JavaScript, Bash, Java, Scala
+Cloud Platforms:  AWS, GCP, Azure
+Frameworks:       ASP.NET Core MVC, Node.js, React, Flask
+Databases:        Teradata, BigQuery, DynamoDB, Snowflake, MySQL, SQL Server
+ETL Tools:        Glue, Cloud Functions, Data Factory, Spark, PySpark
+AI & ML:          TensorFlow, PyTorch, Keras, NLP, GeoAI
+Visualization:    Power BI, QuickSight, Tableau, Databricks
+DevOps & Tools:   Git, Docker, Control-M, Bitbucket, Jira
 ```
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-### 🔸 GeoCrimeData
-> Crime event detection using NLP, Spark MLlib & Azure Data Factory  
-🔗 GitHub: _Coming soon_
+### 🔸 [GeoCrimeData](#)
+> Built a pipeline using **NLP**, **NER**, and **Spark MLlib** to classify and geolocate crime events  
+> Tools: Web Scraping · PySpark · Azure Data Factory · Databricks  
+📊 *Dashboard & repo coming soon*
 
-### 🔸 Nutrafarm App
-> Full-stack sales and product management platform built with ASP.NET MVC  
-🔗 GitHub: _Coming soon_
+### 🔸 [Nutrafarm App](#)
+> Inventory, sales, and credit management system for a nutrition store chain  
+> Tech: ASP.NET Core MVC · SQL Server · Bootstrap  
+💼 *Production-ready demo coming soon*
 
-### 🔸 ESAN Event Flow
-> Mobile app with Firebase auth and dashboards using Databricks + PySpark  
-🔗 GitHub: _Coming soon_
+### 🔸 [ESAN Event Flow](#)
+> Mobile app with real-time Firebase tracking & Databricks dashboards  
+> Tech: Java · Firebase · PySpark · Azure  
+📱 *GitHub repo in progress*
 
 ---
 
 ## 🏆 Awards & Certifications
 
-- 🎓 **Beca 18 (PRONABEC)** – Full scholarship recipient
-- 🥉 **DataFest 2023** – Participant in ESAN's Analytics Challenge
+- 🥇 **Beca 18 (PRONABEC)** — Full academic scholarship for top Peruvian students
+- 🏅 **DataFest 2023** — Finalist at ESAN’s analytics competition
+- 🏆 **HAL Game Dev (Japan)** — Bronze Prize for mobile game SPIKE
+- 🈴 **JLPT N1** — Highest level of Japanese language certification
 
 ---
 
-## 📫 Connect with Me
+## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/franklincz)
-- 📬 franklincunya.dev@gmail.com
-- 🌐 Portfolio: *Coming soon*
+- 💼 [LinkedIn](https://www.linkedin.com/in/franklincz)
+- 📧 franklincunya.dev@gmail.com
+- 🌐 Portfolio site: *Coming soon*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franklincz&show_icons=true&theme=tokyonight" alt="Franklin's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Franklincz&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <em>“Data is the new oil. I build the pipelines.”</em>
 </p>
+
 
